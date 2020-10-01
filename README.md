@@ -1,7 +1,7 @@
 
 # SELD-TCN: Sound Event Localization and Detection via Temporal Convolutional Networks
 
-This repository contains a SELD-TCN implementation. The implementation is discussed[here](SELD-TCN_implementation_report.pdf).
+This repository contains a SELD-TCN implementation. The implementation is discussed [here](SELD-TCN_implementation_report.pdf).
 
 ![picture](img/img1.PNG)
 
